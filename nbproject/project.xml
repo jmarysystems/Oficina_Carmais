@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>Oficina_Carmais</name>
+            <source-roots>
+                <root id="src.dir"/>
+                <root id="src.Login.dir"/>
+                <root id="src.Utilidades.dir"/>
+                <root id="src.Cadastrar_Usuario.dir"/>
+                <root id="src.Cadastrar_Servicos.dir"/>
+                <root id="src.Cadastrar_Contato.dir"/>
+                <root id="src.Cadastrar_Produto.dir"/>
+                <root id="src.Cadastrar_Tipo_de_Documento.dir"/>
+                <root id="src.Cadastrar_Contas_Disponiveis.dir"/>
+                <root id="src.Forma_de_Pagamento.dir"/>
+                <root id="src.Cadastrar_OS.dir"/>
+                <root id="src.OS_Cliente.dir"/>
+                <root id="src.Definir_Forma_de_Pagamento.dir"/>
+                <root id="src.OS_Definir_Forma_de_Pagamento.dir"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir"/>
+            </test-roots>
+        </data>
+    </configuration>
+</project>
